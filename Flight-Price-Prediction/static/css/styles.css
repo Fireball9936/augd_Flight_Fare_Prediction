@@ -1,0 +1,36 @@
+body {
+    background-color: #50e05c;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #333333;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
+  .navbar-brand{
+    font-size: 4rem;
+    /* align-content: center;
+    text-align: center;
+    align-items: center; */
+    margin-left: 35rem;
+}
+.btny{
+    background-color: black;
+    color: #f0f0f0;
+    border-color: #333333;
+    height: 4rem;
+    width: 10rem;
+    border-radius: 10px;
+    font-size: 2rem;
+}
+.btny:hover{
+    background-color: rgb(221, 216, 216);
+    color: black;
+}
